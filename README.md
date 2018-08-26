@@ -1,0 +1,2 @@
+# mytechy
+Technology stuff
